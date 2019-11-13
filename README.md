@@ -1,6 +1,11 @@
 # Curos de NodeJS Rocketseat
 
-- Para rodar a aplicação utilize o comando:  $ npm run dev
-- Para rodar o banco de dados utilizar o comando: $ docker start nome_da_imagem
-nome da imagem: mongodb
+
+- [X] Rodar a aplicação:
+    $ npm run dev
+
+- [x] Nome da imagem:
+    mongodb
+- [X] Para acessar o banco de dados rode o comando como adm: 
+    $ docker start nome_da_imagem
 
