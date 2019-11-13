@@ -1,4 +1,4 @@
-# Curos de NodeJS Rocketseat
+# Curso de NodeJS Rocketseat
 
 
 - [X] Rodar a aplicação:
