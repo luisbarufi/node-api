@@ -14,6 +14,6 @@ mongoose.connect("mongodb://localhost:27017/nodeapi", {
 requireDir("./src/models");
 
 // Rotas
-app.use("/api", require("./src/models/routes"));
+app.use("/api", require("./src/routes"));
 
 app.listen(3001);
