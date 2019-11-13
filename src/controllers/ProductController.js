@@ -8,4 +8,5 @@ module.exports = {
 
     return res.json(products);
   }
+  
 };
