@@ -6,6 +6,6 @@ Construindo uma aplicação no modelo "product hunt"
 
 - [X] Rodar a aplicação: $ npm run dev
 
-- [X] Para acessar o banco de dados rode o comando como adm: $ docker start nome_da_imagem
+- [X] Para rodar o banco de dados use o comando como adm: $ docker start nome_da_imagem
 
 - [x] Nome da imagem: mongodb
