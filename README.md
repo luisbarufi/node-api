@@ -2,7 +2,7 @@
 
 Construindo uma aplicação no modelo "product hunt"
 
-# Comandos para rodar a aplicação (utilizando linix mint)
+# Comandos para rodar a aplicação (utilizando linux mint)
 
 - [X] Rodar a aplicação: $ npm run dev
 
