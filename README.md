@@ -1,6 +1,6 @@
 # Curso de NodeJS Rocketseat
 
-Construindo uma aplicação no modelo "product hunt"
+Construindo uma aplicação backend no modelo "product hunt"
 
 # Comandos para rodar a aplicação (utilizando linux mint)
 
